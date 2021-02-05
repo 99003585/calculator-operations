@@ -1,6 +1,7 @@
 
 #include <gtest/test.h>
-#include <calculator.h>
+#include "calculator.h"
+
 
 int add(int val1, int val2)
 {

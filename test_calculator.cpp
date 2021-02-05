@@ -1,7 +1,7 @@
 
 
-#include "gtest/test.h"
-#include <calculator.h>
+#include <gtest/test.h>
+#include "calculator.h"
 
 TEST(CalculatorTest,add){
     EXPECT_EQ(11,add(5,6));
